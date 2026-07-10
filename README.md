@@ -4,10 +4,8 @@
 
 <p align="center">
   <a href="https://arkadeep.vercel.app">Portfolio</a> ·
-  <a href="https://arkadeep.vercel.app/resume">Resume</a> ·
   <a href="https://linkedin.com/in/arkadeep-roy">LinkedIn</a> ·
-  <a href="https://medium.com/@tirqwork1">Medium</a> ·
-  <a href="https://github.com/arkadeep-roy/aizascope">AizaScope</a> ·
+  <a href="https://medium.com/@tirqwork1">Medium</a>  ·
   <a href="https://weekend-v2.ctf-challenge.workers.dev/">Weekend CTF</a>
 </p>
 
