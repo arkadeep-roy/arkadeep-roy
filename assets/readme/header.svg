@@ -1,0 +1,65 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Arkadeep Roy — Security Analyst, VAPT, Bug Bounty Hunter, CTF Author">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#07111f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="100" y1="40" x2="1000" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5eead4"/>
+      <stop offset="0.55" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(880 120) rotate(90) scale(180 300)">
+      <stop stop-color="#60a5fa" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#60a5fa" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#93c5fd" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="22" fill="url(#grid)"/>
+  <rect width="1200" height="260" rx="22" fill="url(#glow)"/>
+
+  <g opacity="0.85" filter="url(#softShadow)">
+    <path d="M742 52C798 34 860 42 909 76C958 110 995 170 978 213C961 257 889 285 821 268C754 251 692 189 699 131C704 94 716 63 742 52Z" fill="url(#accent)" opacity="0.12">
+      <animate attributeName="opacity" values="0.10;0.18;0.10" dur="6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M785 92L935 92L985 132L935 172H785L735 132L785 92Z" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="1.4"/>
+    <path d="M760 132H960" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="1.4" stroke-linecap="round"/>
+    <circle cx="785" cy="132" r="4" fill="#5eead4" opacity="0.8">
+      <animate attributeName="cx" values="785;960;785" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(70 58)">
+    <text x="0" y="0" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="2">
+      SECURITY ANALYST · RESPONSIBLE DISCLOSURE
+    </text>
+    <text x="0" y="58" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="800" letter-spacing="-1.6">
+      Arkadeep Roy
+    </text>
+    <text x="0" y="96" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">
+      VAPT · Bug Bounty · Cloud Exposure · CTF Author
+    </text>
+    <rect x="0" y="126" width="690" height="1" fill="url(#accent)" opacity="0.55"/>
+    <text x="0" y="160" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">
+      proof-first reports • safe impact validation • clear remediation
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <g transform="translate(68 214)">
+    <rect x="0" y="0" width="126" height="26" rx="13" fill="#0f172a" stroke="#334155"/>
+    <text x="18" y="18" fill="#5eead4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">VAPT</text>
+    <rect x="140" y="0" width="154" height="26" rx="13" fill="#0f172a" stroke="#334155"/>
+    <text x="158" y="18" fill="#93c5fd" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">Bug Bounty</text>
+    <rect x="308" y="0" width="160" height="26" rx="13" fill="#0f172a" stroke="#334155"/>
+    <text x="326" y="18" fill="#c4b5fd" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">Security Tools</text>
+  </g>
+</svg>
