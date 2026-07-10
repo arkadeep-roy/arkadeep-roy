@@ -40,13 +40,6 @@ I’ve helped secure **100+ organizations** through responsible disclosure, VDP,
 
 I’m **Arkadeep Roy**, a **Security Analyst** from India focused on practical security work: **VAPT, bug bounty research, cloud exposure review, web application security, and security tooling**.
 
-```txt
-role      Security Analyst
-focus     VAPT · Bug Bounty · Web Security · Cloud Exposure · CTFs
-method    proof-first reports · responsible disclosure · clear remediation
-location  India
-```
-
 ## Work I do
 
 | Area | What I usually work on |
@@ -72,17 +65,6 @@ location  India
 | **[Portfolio](https://arkadeep.vercel.app)** | Selected acknowledgements, proof gallery, resume, recommendations, press, and project links. |
 | **[Security Writeups](https://medium.com/@tirqwork1)** | Practical vulnerability notes and bug bounty learnings. |
 
-## Tools I reach for
-
-```txt
-Burp Suite      Python          Bash/Linux       Git/GitHub
-Nuclei          Shodan          CT Logs          Common Crawl
-AWS/GCP         Cloudflare      OWASP Top 10     Manual validation
-```
-
-## Responsible disclosure note
-
-I only publish details that are safe to disclose. I do not share live secrets, private data, exploit paths, or target-specific information that could put users or organizations at risk.
 
 ## Contact
 
